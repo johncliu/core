@@ -27,7 +27,7 @@
     "atob": "^2.0.3",
     "btoa": "^1.1.2",
     "chalk": "^1.1.3",
-    "elliptic": "^6.4.0",
+    "elliptic": "^6.5.4",
     "fast-sha256": "^1.0.0",
     "leveldown": "^1.6.0",
     "levelup": "^1.3.5",
